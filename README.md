@@ -35,8 +35,8 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the underlyin
    - We analyzed the salary distribution of employees who left the company to identify any patterns or correlations between salary levels and attrition. This analysis helps in evaluating the impact of compensation on employee retention.
 3. Age Group of Exiting Employees:
    - By examining the age distribution of departing employees, we aimed to understand if attrition is influenced by factors such as career stage or generational dynamics. This insight can guide targeted retention strategies tailored to different age groups.
-4. Departmental Attrition:
-   - We investigated attrition rates across different departments to identify areas with higher turnover. This analysis enables us to pinpoint potential issues within specific departments and design interventions to improve retention and morale.
+4. Job Role Attrition:
+   - We investigated attrition rates across different roles to identify areas with higher turnover. This analysis lets us pinpoint potential issues within specific job roles and design interventions to improve retention and morale.
 5. Employee Tenure:
    - Analyzing the tenure of departing employees allowed us to assess factors such as career advancement opportunities, job satisfaction, and organizational culture's impact on retention. Understanding tenure patterns is essential for designing effective retention programs.
 6. Job Satisfaction Rating:
@@ -49,10 +49,13 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the underlyin
 
 ### Findings and Insights
 
-- The Attrition Rate is 16% which is not very high but could be minimized.
+- The Attrition Rate is 16% which is not optimal for a company.
 - There is a direct correlation between Attrition and the Salary of the employees as more than 160 employees who left the company had a salary of less than five thousand which is less than the average salary of the company.
 - The analysis shows that the employees leaving the company are mostly young and middle-aged, with most belonging to the age group 26-35.
 - The analysis also shows that the employees leaving the company mostly work for 1 year and leave.
+- The job satisfaction rating of the company is not good as more than 40% of employees rated their job satisfaction between 1 and 2.
+- The analysis shows that the top four job roles from which the employees are leaving are Laboratory Technicians, Sales Executives, Research Scientists, and Sales Representatives.
+- There is also a correlation between the job roles and salary of the employees as maximum employees in these roles have a salary of less than the average salary of the company. Also, there is a correlation between these metrics and job satisfaction rating as these employees having less salary in these roles have rated their satisfaction low. 
 
 
 
