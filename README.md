@@ -14,6 +14,14 @@ Employee Data: The primary dataset used for this analysis is the "HR_Analytics.c
 - Microsoft PowerBI - Creating Dashboard
 
 ## Data Cleaning
+
 - Removed one row (Years with current manager) as it had several null values and it was not needed for the analysis.
 - Removed duplicates from the file.
 - In some instances, Travel_Rarely was written as TravelRarely, replaced with Travel_Rarely in the Business Travel column.
+
+## Data Visualization
+
+
+
+
+
