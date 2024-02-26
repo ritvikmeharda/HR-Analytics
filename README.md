@@ -45,6 +45,7 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the underlyin
  
 ### Data Visualization
 
+![HR_Analytics_Dashboard](https://github.com/ritvikmeharda/HR-Analytics/assets/95915956/f9fa0be3-eed2-48fb-adbc-7b089ad9a55f)
 
 
 
