@@ -1,13 +1,14 @@
 # HR Analytics
 
 ## Table of Contents
-- [Project Overview](#projectoverview)
-- [Data Source](#datasource)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#Data Cleaning/Preparation)
-  
-
-
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Visualization](#data-visualization)
+- [Findings and Insights](#findings-and-insights)
+- [Recommendations](#recommendations)
 
 
 ### Project Overview
@@ -23,7 +24,7 @@ Employee Data: The primary dataset used for this analysis is the "HR_Analytics.c
 - Microsoft Excel - Data Cleaning & Data Analysis
 - Microsoft PowerBI - Creating Dashboard
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 During the initial data preparation stage, several steps were undertaken to ensure the quality and integrity of the dataset:
 
@@ -67,7 +68,7 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the underlyin
 - The top job roles witnessing attrition include Laboratory Technicians, Sales Executives, Research Scientists, and Sales Representatives. These roles also correlate with lower-than-average salaries, potentially contributing to dissatisfaction and subsequent turnover.
 - There exists a correlation between job roles, salary levels, and job satisfaction ratings, suggesting that employees in roles with lower salaries tend to report lower job satisfaction levels and are more likely to leave the company.
 
-
+### Recommendations
 
 
 
