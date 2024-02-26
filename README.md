@@ -13,11 +13,28 @@ Employee Data: The primary dataset used for this analysis is the "HR_Analytics.c
 - Microsoft Excel - Data Cleaning & Data Analysis
 - Microsoft PowerBI - Creating Dashboard
 
-## Data Cleaning
+## Data Cleaning/Preparation
 
-- Removed one row (Years with current manager) as it had several null values and it was not needed for the analysis.
-- Removed duplicates from the file.
-- In some instances, Travel_Rarely was written as TravelRarely, replaced with Travel_Rarely in the Business Travel column.
+During the initial data preparation stage, several steps were undertaken to ensure the quality and integrity of the dataset:
+
+1. Data Loading and Inspection: The dataset was loaded into the analysis environment, and an initial exploratory analysis was conducted to understand its structure, variables, and potential issues.
+2. Handling Missing Values: Missing values were identified across the dataset, and appropriate strategies were employed to address them, ensuring minimal impact on subsequent analyses.
+3. Removal of Redundant Columns: One column containing information on "Years with current manager" was removed due to its numerous null values and lack of relevance to the analysis objectives.
+4. Duplicate Removal: Duplicate entries within the dataset were identified and removed to prevent bias and ensure accuracy in subsequent analyses.
+5. Standardization of Categorical Values: Inconsistencies in categorical values were addressed, specifically instances where "Travel_Rarely" was inconsistently represented as "TravelRarely" in the "Business Travel" column. These were standardized to "Travel_Rarely" to maintain consistency and accuracy in the dataset.
+
+## Exploratory Data Analysis
+
+EDA involves exploring the employee data to answer key questions such as:
+
+- What is the Attrition Rate of the Company?
+- What is the salary slab of the employees leaving the company?
+- What is the age group they lie in?
+- Which department is showing the maximum attrition?
+- How many years have they spent with the company?
+
+ 
+
 
 ## Data Visualization
 
