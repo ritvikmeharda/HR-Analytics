@@ -49,15 +49,13 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the underlyin
 
 ### Findings and Insights
 
-- The Attrition Rate is 16% which is not optimal for a company.
-- There is a direct correlation between Attrition and the Salary of the employees as more than 160 employees who left the company had a salary of less than five thousand which is less than the average salary of the company.
-- The analysis shows that the employees leaving the company are mostly young and middle-aged, with most belonging to the age group 26-35.
-- The analysis also shows that the employees leaving the company mostly work for 1 year and leave.
-- The job satisfaction rating of the company is not good as more than 40% of employees rated their job satisfaction between 1 and 2.
-- The analysis shows that the top four job roles from which the employees are leaving are Laboratory Technicians, Sales Executives, Research Scientists, and Sales Representatives.
-- There is also a correlation between the job roles and salary of the employees as maximum employees in these roles have a salary of less than the average salary of the company. Also, there is a correlation between these metrics and job satisfaction rating as these employees having less salary in these roles have rated their satisfaction low. 
-
-
+- The attrition rate of 16% indicates a notable turnover within the company. This figure suggests a significant departure rate that warrants attention.
+- Analysis reveals a direct correlation between attrition and employee salary, with 163 out of 237 departing employees earning salaries below 5000, notably lower than the company average.
+- Age distribution among departing employees highlights a predominant representation from the younger and middle-aged groups, with the majority falling within the 26-35 age bracket.
+- Tenure analysis indicates that a considerable portion of departing employees, particularly those with one year of tenure, are opting to leave the company.
+- Job satisfaction ratings, measured on a scale of 1 to 4, indicate suboptimal satisfaction levels among employees, with over 40% rating their satisfaction between 1 and 2.
+- The top job roles witnessing attrition include Laboratory Technicians, Sales Executives, Research Scientists, and Sales Representatives. These roles also correlate with lower-than-average salaries, potentially contributing to dissatisfaction and subsequent turnover.
+- There exists a correlation between job roles, salary levels, and job satisfaction ratings, suggesting that employees in roles with lower salaries tend to report lower job satisfaction levels and are more likely to leave the company.
 
 
 
