@@ -47,9 +47,12 @@ Exploratory Data Analysis (EDA) is a crucial step in understanding the underlyin
 
 ![HR_Analytics_Dashboard](https://github.com/ritvikmeharda/HR-Analytics/assets/95915956/f9fa0be3-eed2-48fb-adbc-7b089ad9a55f)
 
+### Findings and Insights
 
-
-
+- The Attrition Rate is 16% which is not very high but could be minimized.
+- There is a direct correlation between Attrition and the Salary of the employees as more than 160 employees who left the company had a salary of less than five thousand which is less than the average salary of the company.
+- The analysis shows that the employees leaving the company are mostly young and middle-aged, with most belonging to the age group 26-35.
+- The analysis also shows that the employees leaving the company mostly work for 1 year and leave.
 
 
 
